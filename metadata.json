@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Gemini WhatsApp Clone",
+  "description": "A fully functional WhatsApp clone interface where users can chat with a Gemini-powered AI bot, simulating real conversations with contacts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
